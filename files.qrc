@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="ROOT">
+    <file>img/shield.png</file>
+    <file>img/id.png</file>
+    <file>img/hashtag.png</file>
+    <file>img/administrateur.png</file>
+    <file>img/clock.png</file>
+    <file>img/play.png</file>
+    <file>img/pause.png</file>
+    <file>img/pngwing_1.png</file>
+    <file>img/voice.png</file>
+    <file>img/microphone.png</file>
+    <file>img/home_page.png</file>
+    <file>img/face.png</file>
+    <file>img/on-off-button.png</file>
+    <file>img/dashboard.png</file>
+    <file>img/login_2.png</file>
+    <file>img/logout.png</file>
+    <file>img/app.png</file>
+    <file>img/home.png</file>
+    <file>img/menu.png</file>
+    <file>img/personal-information.png</file>
+    <file>img/log.png</file>
+    <file>img/reduire.png</file>
+    <file>img/exit.png</file>
+    <file>img/user.png</file>
+    <file>img/login.png</file>
+  </qresource>
+</RCC>
